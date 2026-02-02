@@ -4,7 +4,9 @@ A futuristic frontend dashboard designed for monitoring autonomous AI agents.
 Built as a **Proof of Concept** for the **Frontend Developer (React)** role at **Accelyst**.
 
 ## 🚀 Live Demo
-👉 **[KLIK DI SINI UNTUK BUKA APLIKASI](PASTE_LINK_VERCEL_KAMU_DISINI)**
+👉 **[KLIK DI SINI UNTUK BUKA APLIKASI](https://nexus-ai-dashboard.vercel.app/)**
+
+![Dashboard Preview](https://img.shields.io/badge/Status-Live-success?style=for-the-badge)
 
 ## ⚡ Tech Stack
 - **React 18** (Vite Build Tool)
